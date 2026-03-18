@@ -1,7 +1,6 @@
 import { AdvisorsList } from "../components/advisors/AdvisorList";
 import { getAdvisors } from "../services/advisor.service";
 
-
 export default async function AdvisorsPage() {
   const advisors = await getAdvisors();
 

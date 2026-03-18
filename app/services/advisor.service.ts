@@ -1,4 +1,3 @@
-
 import { Advisor, AdvisorAvailability } from '@/app/types/advisor';
 import { ADVISORS_MOCK } from '../data/advisor.mock';
 
